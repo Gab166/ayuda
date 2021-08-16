@@ -1,0 +1,8 @@
+.section-movil{
+    max-width: 768px;
+}
+.section-tipos-ram{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
